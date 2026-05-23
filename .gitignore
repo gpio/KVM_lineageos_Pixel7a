@@ -1,0 +1,6 @@
+*.so
+*.o
+*.qcow2
+*.iso
+*.fd
+vms/
